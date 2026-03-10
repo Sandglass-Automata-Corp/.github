@@ -1,12 +1,14 @@
-## Hi there 👋
+# Sandglass Automata
 
-<!--
+We are a stealth-mode CNC manufacturing startup focused on one thing: getting precision parts made fast.
 
-**Here are some ideas to get you started:**
+## What we're building
+- Quickturn CNC workflows for teams that cannot wait weeks for parts
+- Automation-first operations across quoting, scheduling, and production flow
+- Consistent, repeatable quality with tightly controlled processes
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Current status
+We're operating in stealth while we expand capacity, validate systems, and partner with select customers.
+
+## Contact
+For pilot opportunities or partnership inquiries, reach us at `hello@yourdomain.com`.
