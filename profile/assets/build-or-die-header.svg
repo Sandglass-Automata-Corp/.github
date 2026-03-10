@@ -1,0 +1,30 @@
+<svg width="1600" height="680" viewBox="0 0 1600 680" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">BUILD OR DIE header</title>
+  <desc id="desc">Blocky orange text reading BUILD OR DIE on a dark background.</desc>
+
+  <defs>
+    <pattern id="tileFill" width="24" height="24" patternUnits="userSpaceOnUse">
+      <rect width="24" height="24" fill="#d6805d" />
+      <path d="M0 0H24M0 24H24M0 0V24M24 0V24" stroke="#b9664b" stroke-width="1.7" />
+      <path d="M12 0V24" stroke="#c97658" stroke-width="1.2" />
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="680" fill="#0c0f14" />
+
+  <g font-family="Impact, 'Arial Black', sans-serif" font-weight="900" letter-spacing="4">
+    <g transform="translate(0, 0)">
+      <text x="108" y="254" font-size="230" fill="none" stroke="#9f5741" stroke-width="16" stroke-linejoin="round">BUILD</text>
+      <text x="103" y="249" font-size="230" fill="none" stroke="#f4ab89" stroke-width="6" stroke-linejoin="round">BUILD</text>
+      <text x="90" y="236" font-size="230" fill="url(#tileFill)" stroke="#f6aa88" stroke-width="6" stroke-linejoin="round">BUILD</text>
+      <text x="90" y="236" font-size="230" fill="none" stroke="#261918" stroke-width="2" stroke-linejoin="round">BUILD</text>
+    </g>
+
+    <g transform="translate(0, 0)">
+      <text x="108" y="530" font-size="220" fill="none" stroke="#9f5741" stroke-width="16" stroke-linejoin="round">OR DIE</text>
+      <text x="103" y="525" font-size="220" fill="none" stroke="#f4ab89" stroke-width="6" stroke-linejoin="round">OR DIE</text>
+      <text x="90" y="512" font-size="220" fill="url(#tileFill)" stroke="#f6aa88" stroke-width="6" stroke-linejoin="round">OR DIE</text>
+      <text x="90" y="512" font-size="220" fill="none" stroke="#261918" stroke-width="2" stroke-linejoin="round">OR DIE</text>
+    </g>
+  </g>
+</svg>
