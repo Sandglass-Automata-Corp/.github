@@ -11,4 +11,4 @@
 We're operating in stealth while we expand capacity, validate systems, and partner with select customers.
 
 ## Contact
-For pilot opportunities or partnership inquiries, reach us at `hello@yourdomain.com`.
+For pilot opportunities or partnership inquiries, reach us at `info@anyangle.co`.
