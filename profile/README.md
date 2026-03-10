@@ -1,7 +1,6 @@
 ![BUILD OR DIE header](assets/build-or-die-header.svg)
 
 ---
-We are a stealth-mode CNC manufacturing startup focused on one thing: getting precision parts made fast.
 
 ## What we're building
 - Quickturn CNC workflows for teams that cannot wait weeks for parts
