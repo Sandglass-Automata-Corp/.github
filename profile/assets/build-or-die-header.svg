@@ -91,7 +91,9 @@
 
   <rect width="1600" height="320" fill="#ffffff" />
 
-  <use href="#word-geometry" transform="translate(14,12)" fill="none" stroke="#000000" stroke-width="4" stroke-linejoin="miter" />
-  <use href="#word-geometry" transform="translate(7,6)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="miter" />
-  <use href="#word-geometry" fill="url(#tileBlack)" stroke="#000000" stroke-width="1.8" stroke-linejoin="miter" />
+  <g transform="translate(93,4)">
+    <use href="#word-geometry" transform="translate(14,12)" fill="none" stroke="#000000" stroke-width="4" stroke-linejoin="miter" />
+    <use href="#word-geometry" transform="translate(7,6)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="miter" />
+    <use href="#word-geometry" fill="url(#tileBlack)" stroke="#000000" stroke-width="1.8" stroke-linejoin="miter" />
+  </g>
 </svg>
