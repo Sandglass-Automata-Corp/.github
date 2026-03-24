@@ -1,4 +1,8 @@
-![BUILD OR DIE header](assets/build-or-die-header.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/build-or-die-charcoal-blue.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/build-or-die-white-bg-blue.svg">
+  <img alt="BUILD OR DIE header" src="assets/build-or-die-white-bg-blue.svg">
+</picture>
 
 ---
 
